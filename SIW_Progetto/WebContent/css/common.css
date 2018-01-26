@@ -1,0 +1,100 @@
+.modal-title{
+	color:black;
+}
+#xxx{
+	color: black;
+}
+
+#eventodamodificare{
+	color: black;
+}
+
+#newspanel{
+	font-size: 13px;
+	font-style:italic;
+	background: white;
+}
+#newspanel h4{
+	font-style: normal;
+	font-size: 15px;
+}
+.panel-heading h4{
+	font-size: 15px;
+	background: gold;
+	color: black;	
+}
+#panelh{
+	background: gold;
+}
+#panelnews{
+	border-radius: 0;
+    border: 1px solid gold; 
+}
+
+#map {
+	height: 600px;
+	width: 100%;
+}
+
+aside {
+	margin-top: 10px;
+}
+
+#brand {
+	margin-left: 1px;
+}
+
+#info h1{
+	text-align: center;
+	border-bottom: 1px solid white;
+}
+
+h2 {
+	text-align: center;
+}
+
+#description {
+	background: rgba(0, 50, 50, 0.3);
+	color: white;
+}
+
+#log {
+	background: rgba(0, 50, 50, 0.3);
+}
+
+#log.jumbotron {
+	color: white;
+	padding-top: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 5px;
+	text-align: center;
+}
+
+form {
+	color: black;
+}
+
+footer {
+	font-size: small;
+	text-align: right;
+	color: white;
+	margin-right: 10px;
+}
+
+/*SEZIONE CREAZIONE EVENTO NEL PROFILO DOPO AVER FATTO IL LOGIN*/
+#eventForm{
+	background: white;
+	color: black;
+	display : none;
+}
+
+#tuttieventititle.jumbotron{
+	background: rgba(0, 50, 50, 0.3);
+	color: white;
+	padding-top: 0px;
+}
+
+.panel{
+	color: black !important;
+}
